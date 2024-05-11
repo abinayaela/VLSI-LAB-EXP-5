@@ -2,9 +2,11 @@
 SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 **AIM** 
+
 To simulate and synthesis finite state machine using vivado 2023.2
 
 **APPARATUS REQUIRED**
+
 vivado 2023.2
 
 
@@ -31,6 +33,9 @@ Logic Diagram :
 
 
 **VERILOG CODE**
+
+**finite state machine**
+
 
 module FSM_moore(clk, rst, x, z);
 
